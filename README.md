@@ -87,6 +87,8 @@ Performed SQL queries using PostgreSQL/MySQL/SQL Server to:
 
 ### 5. Power BI Dashboard
 
+<img width="1267" height="695" alt="image" src="https://github.com/user-attachments/assets/941e1e04-3b48-401f-b14b-2a24856cebe3" />
+
 Built an interactive dashboard containing:
 
 * KPI cards
@@ -131,7 +133,6 @@ Data-Analytics-Project/
 │
 ├── dataset/
 ├── notebooks/
-├── sql_queries/
 ├── powerbi_dashboard/
 ├── reports/
 ├── presentation/
